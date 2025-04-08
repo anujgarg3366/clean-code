@@ -11,7 +11,7 @@ The OLX APP buys and sells only the finest goods. Unfortunately, most goods are 
 - All items have a 
 	- **SellIn** value which denotes the number of days till the sell by date
 	- **Quality** value which denotes how valuable the item is 
-- At the end of each day our system changes both values for every item as defined by the rules
+- At the end of each day our system changes both values for every item as defined by the rules.
 
 ### Rules
 
